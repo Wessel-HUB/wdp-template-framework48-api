@@ -1,0 +1,11 @@
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\bin\Debug\{{ProjectName}}.Application.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\bin\Debug\{{ProjectName}}.Application.pdb
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\bin\Debug\{{ProjectName}}.Contracts.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\bin\Debug\{{ProjectName}}.Domain.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\bin\Debug\{{ProjectName}}.Contracts.pdb
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\bin\Debug\{{ProjectName}}.Domain.pdb
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\obj\Debug\{{ProjectName}}.Application.csproj.AssemblyReference.cache
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\obj\Debug\{{ProjectName}}.Application.csproj.CoreCompileInputs.cache
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\obj\Debug\{{Projec.7ABE0A00.Up2Date
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\obj\Debug\{{ProjectName}}.Application.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Application\obj\Debug\{{ProjectName}}.Application.pdb

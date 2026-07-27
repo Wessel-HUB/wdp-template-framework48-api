@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    }
+  ]
+}

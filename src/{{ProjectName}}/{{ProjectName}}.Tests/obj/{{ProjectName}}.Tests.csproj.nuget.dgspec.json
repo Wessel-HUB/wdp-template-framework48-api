@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Tests\\{{ProjectName}}.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj",
+        "projectName": "{{ProjectName}}.API",
+        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj",
+        "projectName": "{{ProjectName}}.Application",
+        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj"
+              },
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj",
+        "projectName": "{{ProjectName}}.Contracts",
+        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj",
+        "projectName": "{{ProjectName}}.Domain",
+        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj",
+        "projectName": "{{ProjectName}}.Infrastructure",
+        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj"
+              },
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Tests\\{{ProjectName}}.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Tests\\{{ProjectName}}.Tests.csproj",
+        "projectName": "{{ProjectName}}.Tests",
+        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Tests\\{{ProjectName}}.Tests.csproj",
+        "packagesPath": "C:\\Users\\WesselLudick\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\WesselLudick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj"
+              },
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj"
+              },
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj"
+              },
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj"
+              },
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

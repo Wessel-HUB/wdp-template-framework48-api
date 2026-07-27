@@ -1,0 +1,6 @@
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Domain\bin\Debug\{{ProjectName}}.Domain.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Domain\bin\Debug\{{ProjectName}}.Domain.pdb
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Domain\obj\Debug\{{ProjectName}}.Domain.csproj.AssemblyReference.cache
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Domain\obj\Debug\{{ProjectName}}.Domain.csproj.CoreCompileInputs.cache
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Domain\obj\Debug\{{ProjectName}}.Domain.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Domain\obj\Debug\{{ProjectName}}.Domain.pdb
