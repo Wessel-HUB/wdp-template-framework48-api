@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = __ProjectName__.Tests
-build_property.ProjectDir = c:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Tests\
+build_property.ProjectDir = C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

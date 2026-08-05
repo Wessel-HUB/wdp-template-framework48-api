@@ -629,15 +629,6 @@
           }
         }
       },
-      "{{ProjectName}}.API/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/{{ProjectName}}.API.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/{{ProjectName}}.API.dll": {}
-        }
-      },
       "{{ProjectName}}.Application/1.0.0": {
         "type": "project",
         "dependencies": {
@@ -1701,11 +1692,6 @@
         "version.txt"
       ]
     },
-    "{{ProjectName}}.API/1.0.0": {
-      "type": "project",
-      "path": "../{{ProjectName}}.API/{{ProjectName}}.API.csproj",
-      "msbuildProject": "../{{ProjectName}}.API/{{ProjectName}}.API.csproj"
-    },
     "{{ProjectName}}.Application/1.0.0": {
       "type": "project",
       "path": "../{{ProjectName}}.Application/{{ProjectName}}.Application.csproj",
@@ -1731,7 +1717,6 @@
     ".NETFramework,Version=v4.8": [
       "MSTest >= 3.6.4",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
-      "{{ProjectName}}.API >= 1.0.0",
       "{{ProjectName}}.Application >= 1.0.0",
       "{{ProjectName}}.Contracts >= 1.0.0",
       "{{ProjectName}}.Domain >= 1.0.0",
@@ -1770,9 +1755,6 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj": {
-              "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj"
-            },
             "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj": {
               "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj"
             },

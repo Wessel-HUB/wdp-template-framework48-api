@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|c:\\development\\wdp-template-framework48-api\\src\\{{projectname}}\\{{projectname}}.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|solutionrelative:{{projectname}}.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|c:\\development\\wdp-template-framework48-api\\src\\{{projectname}}\\{{projectname}}.api\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|solutionrelative:{{projectname}}.api\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|c:\\development\\wdp-template-framework48-api\\src\\{{projectname}}\\{{projectname}}.application\\dependencyinjection\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|solutionrelative:{{projectname}}.application\\dependencyinjection\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858879FA-BD05-4DCE-95D3-2B549B27787F}|{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.infrastructure\\dependencyinjection\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858879FA-BD05-4DCE-95D3-2B549B27787F}|{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj|solutionrelative:{{projectname}}.infrastructure\\dependencyinjection\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.application\\interfaces\\ihealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|solutionrelative:{{projectname}}.application\\interfaces\\ihealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.application\\services\\healthservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|solutionrelative:{{projectname}}.application\\services\\healthservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2502BB-14A8-411A-9023-E8E1E8AB7431}|{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.domain\\repositories\\ihealthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2502BB-14A8-411A-9023-E8E1E8AB7431}|{{ProjectName}}.Domain\\{{ProjectName}}.Domain.csproj|solutionrelative:{{projectname}}.domain\\repositories\\ihealthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B60417-F5C5-43BC-96B3-4CDC28DF3396}|{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.contracts\\requests\\healthresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B60417-F5C5-43BC-96B3-4CDC28DF3396}|{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj|solutionrelative:{{projectname}}.contracts\\requests\\healthresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858879FA-BD05-4DCE-95D3-2B549B27787F}|{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.infrastructure\\repositories\\healthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858879FA-BD05-4DCE-95D3-2B549B27787F}|{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj|solutionrelative:{{projectname}}.infrastructure\\repositories\\healthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "{{ProjectName}}.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T12:55:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\packages.config",
+              "RelativeDocumentMoniker": "{{ProjectName}}.API\\packages.config",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\packages.config",
+              "RelativeToolTip": "{{ProjectName}}.API\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-27T12:48:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationModule.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\DependencyInjection\\ApplicationModule.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Application\\DependencyInjection\\ApplicationModule.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\DependencyInjection\\ApplicationModule.cs",
+              "RelativeToolTip": "{{ProjectName}}.Application\\DependencyInjection\\ApplicationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T11:32:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureModule.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\DependencyInjection\\InfrastructureModule.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Infrastructure\\DependencyInjection\\InfrastructureModule.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\DependencyInjection\\InfrastructureModule.cs",
+              "RelativeToolTip": "{{ProjectName}}.Infrastructure\\DependencyInjection\\InfrastructureModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T11:24:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHealthRepository.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\Repositories\\IHealthRepository.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Domain\\Repositories\\IHealthRepository.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Domain\\Repositories\\IHealthRepository.cs",
+              "RelativeToolTip": "{{ProjectName}}.Domain\\Repositories\\IHealthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T10:53:29.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthService .cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\Services\\HealthService .cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Application\\Services\\HealthService .cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\Services\\HealthService .cs",
+              "RelativeToolTip": "{{ProjectName}}.Application\\Services\\HealthService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T10:38:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHealthService.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\Interfaces\\IHealthService.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Application\\Interfaces\\IHealthService.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\Interfaces\\IHealthService.cs",
+              "RelativeToolTip": "{{ProjectName}}.Application\\Interfaces\\IHealthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T10:37:27.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthRepository.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\Repositories\\HealthRepository.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Infrastructure\\Repositories\\HealthRepository.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Infrastructure\\Repositories\\HealthRepository.cs",
+              "RelativeToolTip": "{{ProjectName}}.Infrastructure\\Repositories\\HealthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T10:28:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthResponse.cs",
+              "DocumentMoniker": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\Requests\\HealthResponse.cs",
+              "RelativeDocumentMoniker": "{{ProjectName}}.Contracts\\Requests\\HealthResponse.cs",
+              "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\Requests\\HealthResponse.cs",
+              "RelativeToolTip": "{{ProjectName}}.Contracts\\Requests\\HealthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T10:15:50.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

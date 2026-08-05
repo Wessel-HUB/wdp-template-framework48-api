@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\{{ProjectName}}.API\{{ProjectName}}.API.csproj" />
     <ProjectReference Include="..\{{ProjectName}}.Application\{{ProjectName}}.Application.csproj" />
     <ProjectReference Include="..\{{ProjectName}}.Contracts\{{ProjectName}}.Contracts.csproj" />
     <ProjectReference Include="..\{{ProjectName}}.Domain\{{ProjectName}}.Domain.csproj" />

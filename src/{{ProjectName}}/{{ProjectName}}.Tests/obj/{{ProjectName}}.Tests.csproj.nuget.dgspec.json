@@ -4,22 +4,6 @@
     "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Tests\\{{ProjectName}}.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj",
-        "projectName": "{{ProjectName}}.API",
-        "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
     "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj": {
       "restore": {
         "projectUniqueName": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj",
@@ -126,9 +110,6 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj": {
-                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\{{ProjectName}}.API.csproj"
-              },
               "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj": {
                 "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj"
               },
