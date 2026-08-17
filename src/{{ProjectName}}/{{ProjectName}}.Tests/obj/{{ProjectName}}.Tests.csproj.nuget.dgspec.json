@@ -51,7 +51,11 @@
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj": {
+                "projectPath": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.Contracts\\{{ProjectName}}.Contracts.csproj"
+              }
+            }
           }
         }
       },

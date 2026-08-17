@@ -165,6 +165,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Start\AutofacConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HealthController.cs" />
     <Compile Include="Global.asax.cs">
@@ -184,6 +185,20 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\{{ProjectName}}.Application\{{ProjectName}}.Application.csproj">
+      <Project>{071ED340-B131-43BB-8F21-99968FD8DCA6}</Project>
+      <Name>{{ProjectName}}.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\{{ProjectName}}.Contracts\{{ProjectName}}.Contracts.csproj">
+      <Project>{96B60417-F5C5-43BC-96B3-4CDC28DF3396}</Project>
+      <Name>{{ProjectName}}.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\{{ProjectName}}.Infrastructure\{{ProjectName}}.Infrastructure.csproj">
+      <Project>{858879FA-BD05-4DCE-95D3-2B549B27787F}</Project>
+      <Name>{{ProjectName}}.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

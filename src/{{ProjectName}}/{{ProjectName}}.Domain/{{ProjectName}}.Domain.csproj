@@ -53,5 +53,11 @@
     <Folder Include="Interfaces\" />
     <Folder Include="ValueObjects\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\{{ProjectName}}.Contracts\{{ProjectName}}.Contracts.csproj">
+      <Project>{96B60417-F5C5-43BC-96B3-4CDC28DF3396}</Project>
+      <Name>{{ProjectName}}.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

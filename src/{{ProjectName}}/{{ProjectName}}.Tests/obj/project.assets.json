@@ -653,6 +653,9 @@
       },
       "{{ProjectName}}.Domain/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "{{ProjectName}}.Contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/{{ProjectName}}.Domain.dll": {}
         },

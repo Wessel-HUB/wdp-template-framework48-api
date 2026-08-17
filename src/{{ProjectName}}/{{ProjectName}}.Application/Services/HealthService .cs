@@ -6,24 +6,23 @@ namespace __ProjectName__.Application.Services
 {
     public class HealthService : IHealthService
     {
-        private readonly IHealthRepository _repository;
+        private readonly IHealthRepository _healthRepository;
 
         public HealthService(IHealthRepository repository)
         {
-            _repository = repository;
+            _healthRepository = repository;
         }
 
         public HealthResponse GetHealth()
         {
             return new HealthResponse
             {
-                Status = "Healthy",
-                Application = "TODO",
-                Version = "0.1.0",
+                Application = "WDP API",
                 Environment = "Development",
-                Database = "Connected",
-                ServerTime = _repository.GetServerTime(),
-                WdpVersion = "0.1.0"
+                ServerTime = _healthRepository.GetServerTime(),
+                Status = "Healthy",
+                Version = "1.0.0",
+                WdpVersion = "Foundation 1"
             };
         }
 

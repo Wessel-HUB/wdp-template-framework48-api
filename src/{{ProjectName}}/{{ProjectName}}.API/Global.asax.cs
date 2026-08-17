@@ -1,3 +1,4 @@
+using __ProjectName__.API.App_Start;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,11 @@ namespace __ProjectName__.API
     {
         protected void Application_Start()
         {
-            GlobalConfiguration.Configure(WebApiConfig.Register);
+            GlobalConfiguration.Configure(config => 
+            {
+                WebApiConfig.Register(config);
+                AutofacConfig.Register(config);
+            });
         }
     }
 }
