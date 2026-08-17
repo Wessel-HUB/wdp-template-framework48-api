@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{071ED340-B131-43BB-8F21-99968FD8DCA6}|{{ProjectName}}.Application\\{{ProjectName}}.Application.csproj|solutionrelative:{{projectname}}.application\\interfaces\\ihealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|c:\\development\\wdp-template-framework48-api\\src\\{{projectname}}\\{{projectname}}.api\\app_start\\autofacconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.api\\app_start\\autofacconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|solutionrelative:{{projectname}}.api\\app_start\\autofacconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{858879FA-BD05-4DCE-95D3-2B549B27787F}|{{ProjectName}}.Infrastructure\\{{ProjectName}}.Infrastructure.csproj|solutionrelative:{{projectname}}.infrastructure\\dependencyinjection\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|c:\\development\\wdp-template-framework48-api\\src\\{{projectname}}\\{{projectname}}.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{projectname}}.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3FF6E7-B603-40F2-AF18-9EC59CBBA3DA}|{{ProjectName}}.API\\{{ProjectName}}.API.csproj|solutionrelative:{{projectname}}.api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,7 +90,7 @@
               "RelativeDocumentMoniker": "{{ProjectName}}.API\\Controllers\\HealthController.cs",
               "ToolTip": "C:\\Development\\wdp-template-framework48-api\\src\\{{ProjectName}}\\{{ProjectName}}.API\\Controllers\\HealthController.cs",
               "RelativeToolTip": "{{ProjectName}}.API\\Controllers\\HealthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-27T12:55:18.957Z",
               "EditorCaption": ""

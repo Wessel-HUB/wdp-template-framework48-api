@@ -105,3 +105,9 @@ C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\obj\Debug\{{Projec.5BD13713.Up2Date
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\obj\Debug\{{ProjectName}}.API.dll
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\obj\Debug\{{ProjectName}}.API.pdb
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\Serilog.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\Serilog.Sinks.File.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\System.Threading.Channels.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\Serilog.xml
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\Serilog.Sinks.File.xml
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\System.Threading.Channels.xml
