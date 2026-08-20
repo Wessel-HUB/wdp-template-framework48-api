@@ -75,11 +75,12 @@ C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\System.Web.Http.WebHost.dll
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Application.dll
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Contracts.dll
-C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Infrastructure.dll
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Domain.dll
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Infrastructure.dll
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Application.pdb
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Application.dll.config
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Contracts.pdb
+C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Domain.pdb
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Infrastructure.pdb
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Infrastructure.dll.config
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\Autofac.xml
@@ -105,7 +106,6 @@ C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\System.Web.Http.Owin.xml
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\System.Web.Http.WebHost.xml
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\bin\{{ProjectName}}.Domain.pdb
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\obj\Debug\{{ProjectName}}.API.csproj.AssemblyReference.cache
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\obj\Debug\{{ProjectName}}.API.csproj.CoreCompileInputs.cache
 C:\Development\wdp-template-framework48-api\src\{{ProjectName}}\{{ProjectName}}.API\obj\Debug\{{Projec.5BD13713.Up2Date

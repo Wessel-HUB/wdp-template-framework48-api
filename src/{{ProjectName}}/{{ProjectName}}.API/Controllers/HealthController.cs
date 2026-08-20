@@ -1,4 +1,6 @@
 ﻿using __ProjectName__.Application.Interfaces;
+using __ProjectName__.Domain.Exceptions;
+using System;
 using System.Web.Http;
 
 namespace __ProjectName__.API.Controllers

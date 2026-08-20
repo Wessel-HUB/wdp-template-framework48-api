@@ -178,6 +178,8 @@
     <Compile Include="App_Start\SerilogConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HealthController.cs" />
+    <Compile Include="Errors\ErrorResponse.cs" />
+    <Compile Include="Errors\GlobalExceptionHandler.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -204,6 +206,10 @@
     <ProjectReference Include="..\{{ProjectName}}.Contracts\{{ProjectName}}.Contracts.csproj">
       <Project>{96B60417-F5C5-43BC-96B3-4CDC28DF3396}</Project>
       <Name>{{ProjectName}}.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\{{ProjectName}}.Domain\{{ProjectName}}.Domain.csproj">
+      <Project>{5F2502BB-14A8-411A-9023-E8E1E8AB7431}</Project>
+      <Name>{{ProjectName}}.Domain</Name>
     </ProjectReference>
     <ProjectReference Include="..\{{ProjectName}}.Infrastructure\{{ProjectName}}.Infrastructure.csproj">
       <Project>{858879FA-BD05-4DCE-95D3-2B549B27787F}</Project>
