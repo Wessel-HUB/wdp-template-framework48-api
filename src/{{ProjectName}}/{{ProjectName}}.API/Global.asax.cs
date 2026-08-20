@@ -1,4 +1,5 @@
 using __ProjectName__.API.App_Start;
+using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,11 +13,17 @@ namespace __ProjectName__.API
     {
         protected void Application_Start()
         {
+            SerilogConfig.Configure();
+
+            Log.Information("WDP API is starting.");
+
             GlobalConfiguration.Configure(config => 
             {
                 WebApiConfig.Register(config);
                 AutofacConfig.Register(config);
             });
+
+            Log.Information("WDP API started successfully");
         }
     }
 }
